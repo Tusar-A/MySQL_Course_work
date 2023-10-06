@@ -7,6 +7,7 @@ insert into employees
     gender,
     hire_date
 )
+	
 values (
 	999901,
     '1997-03-17',
